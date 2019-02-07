@@ -1,0 +1,53 @@
+body {
+	margin: 0px;
+}
+
+#top {
+	height:60px;
+	background-color:#eeeeee;
+	text-align:center;
+	margin-top:0px;
+}
+#left {
+	min-height:500px;
+}
+#loginInfo {
+	text-align:right;
+}
+#leftDiv {
+	margin:5px;
+	float:left;
+	width: 18%;
+	min-width:200px;
+	min-height:500px;
+	background-color:#eeeeee;
+	border: solid 1px #666666;
+}
+#rightDiv {
+	margin:5px;
+	float:left;
+	width: 78%;
+	min-height:500px;   
+	background-color:#eeeeee;
+	border: solid 1px #666666;
+}
+
+#bottom {
+	text-align:center;
+}
+
+#searchBox {
+	margin: 10px;
+}
+
+#dataArea {
+	margin: 10px;
+}
+
+#pageFooter {
+	margin: 10px;
+}
+#toolbar {
+	width:100%;
+	text-align:right;
+}

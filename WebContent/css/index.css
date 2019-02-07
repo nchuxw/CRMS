@@ -1,0 +1,25 @@
+body {
+	height: 100%;
+}
+
+.header{
+	background-color: #dce6d9;
+	width:100%;
+	height: 50px;
+}
+
+.navigation {
+	float:left;
+	min-height: 460px;
+	width: 18%;
+	height: 100%;
+	background-color: #fad9c5;
+}
+
+.content{
+	float:left;
+	min-height: 460px;
+	width:82%;
+	height:100%;
+	background-color: pink;
+}
